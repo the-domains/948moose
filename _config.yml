@@ -1,0 +1,28 @@
+name: 948moose
+favicon: null
+layout_spectrum: 0.2824753229506314
+typography_spectrum: 0.11375784152187407
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.06724995421245694
+  lightness: 0.46736178384162486
+  saturation: 0.5454486648086458
+  rhythmicContrast: 0.4239282684866339
+purpose: []
